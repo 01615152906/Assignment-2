@@ -12,7 +12,7 @@ A complete backend system for managing vehicle rentals with authentication, role
 ## Live Deployment
 > **URL:** https://assignment-2-ten-gamma.vercel.app/
 
- **URL:** https://assignment-2-nuizb3l65-01615152906s-projects.vercel.app/
+ **URL:** https://assignment-2-jfwakw1v1-01615152906s-projects.vercel.app/
 (Replace with your deployed  Vercel Backend URL)
 
 ---
@@ -94,12 +94,12 @@ npm install
 
 
  # Create .env File
-* PORT=5000
+1. PORT=5000
 
-* DB_HOST=localhost
+2. DB_HOST=localhost
 
- * CONNECTION_STR=postgresql://neondb_owner:npg_vdjwFrEZlQ15@ep-royal-brook-adpri2k5-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require
+ 3. CONNECTION_STR=postgresql://neondb_owner:npg_vdjwFrEZlQ15@ep-royal-brook-adpri2k5-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require
 
-* JWT_SECRET=KMUFsIDTnFmyG3nMiGM6H9FNFUROf3wh7SmqJp-QV30
+4. JWT_SECRET=KMUFsIDTnFmyG3nMiGM6H9FNFUROf3wh7SmqJp-QV30
 
-* JWT_EXPIRY=7d
+5. JWT_EXPIRY=7d
