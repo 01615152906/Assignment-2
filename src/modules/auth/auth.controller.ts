@@ -46,7 +46,7 @@ const signup = async (req: Request, res: Response) => {
   } catch (err: any) {
     res.status(400).json({
       success: false,
-      message: err.message,
+      message: "Validation errors, invalid input",
     });
   }
 };
@@ -64,7 +64,7 @@ const login = async (req: Request, res: Response) => {
   } catch (err: any) {
     res.status(400).json({
       success: false,
-      message: err.message,
+      message: "Validation errors, invalid input",
     });
   }
 };

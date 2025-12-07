@@ -91,7 +91,7 @@ const updateBooking = async (req: Request, res: Response) => {
   } catch (err: any) {
     return res.status(err.status || 500).json({
       success: false,
-      message: err.message,
+      message: "	Unexpected server errors",
     });
   }
 };
