@@ -87,8 +87,6 @@ A complete backend system for managing vehicle rentals with authentication, role
 ---
 
 
-# Install Dependencies
-npm install
 
 
 
