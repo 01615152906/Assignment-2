@@ -94,10 +94,12 @@ npm install
 
 
  # Create .env File
-PORT=5000
-DB_HOST=localhost
+* PORT=5000
 
-CONNECTION_STR=postgresql://neondb_owner:npg_vdjwFrEZlQ15@ep-royal-brook-adpri2k5-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require
+* DB_HOST=localhost
 
-JWT_SECRET=KMUFsIDTnFmyG3nMiGM6H9FNFUROf3wh7SmqJp-QV30
-JWT_EXPIRY=7d
+* CONNECTION_STR=postgresql://neondb_owner:npg_vdjwFrEZlQ15@ep-royal-brook-adpri2k5-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require
+
+* JWT_SECRET=KMUFsIDTnFmyG3nMiGM6H9FNFUROf3wh7SmqJp-QV30
+
+* JWT_EXPIRY=7d
