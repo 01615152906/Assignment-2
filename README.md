@@ -81,8 +81,7 @@ A complete backend system for managing vehicle rentals with authentication, role
 | Framework | Express.js |
 | Database | PostgreSQL |
 | Auth | JWT + bcrypt |
-| ORM | pg (native PostgreSQL client) |
-| Deployment | Render / Railway / Vercel |
+| Deployment |  Vercel |
 
 ---
 
