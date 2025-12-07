@@ -10,9 +10,9 @@ A complete backend system for managing vehicle rentals with authentication, role
 ---
 
 ## Live Deployment
-> **URL:**https://assignment-2-01615152906-01615152906s-projects.vercel.app/
+> **URL:**
 
- **URL:** https://assignment-2-dvlg2g5e4-01615152906s-projects.vercel.app/
+ **URL:** 
 (Replace with your deployed  Vercel Backend URL)
 
 ---
